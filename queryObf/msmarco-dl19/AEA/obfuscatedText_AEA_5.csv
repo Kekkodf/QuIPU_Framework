@@ -1,0 +1,1532 @@
+id,text,obfuscatedText,mechanism,level
+156493,do goldfish grow,carry_through goldfish change_magnitude,AEA,5
+156493,do goldfish grow,carry_through goldfish grow,AEA,5
+156493,do goldfish grow,carry_through goldfish change,AEA,5
+156493,do goldfish grow,carry_through goldfish increase,AEA,5
+156493,do goldfish grow,effect goldfish change_magnitude,AEA,5
+156493,do goldfish grow,effect goldfish grow,AEA,5
+156493,do goldfish grow,effect goldfish change,AEA,5
+156493,do goldfish grow,effect goldfish increase,AEA,5
+156493,do goldfish grow,cause goldfish change_magnitude,AEA,5
+156493,do goldfish grow,cause goldfish grow,AEA,5
+156493,do goldfish grow,cause goldfish change,AEA,5
+156493,do goldfish grow,cause goldfish increase,AEA,5
+156493,do goldfish grow,end goldfish change_magnitude,AEA,5
+156493,do goldfish grow,end goldfish grow,AEA,5
+156493,do goldfish grow,end goldfish change,AEA,5
+156493,do goldfish grow,end goldfish increase,AEA,5
+156493,do goldfish grow,do goldfish change_magnitude,AEA,5
+156493,do goldfish grow,do goldfish grow,AEA,5
+156493,do goldfish grow,do goldfish change,AEA,5
+156493,do goldfish grow,do goldfish increase,AEA,5
+156493,do goldfish grow,complete goldfish change_magnitude,AEA,5
+156493,do goldfish grow,complete goldfish grow,AEA,5
+156493,do goldfish grow,complete goldfish change,AEA,5
+156493,do goldfish grow,complete goldfish increase,AEA,5
+1110199,what is wifi vs bluetooth,what be wifi written_symbol b,AEA,5
+1110199,what is wifi vs bluetooth,what be wifi letter b,AEA,5
+1110199,what is wifi vs bluetooth,what be wifi character b,AEA,5
+1110199,what is wifi vs bluetooth,what be wifi v b,AEA,5
+1063750,why did the us volunterilay enter ww1,why carry_through the us v enter w,AEA,5
+1063750,why did the us volunterilay enter ww1,why effect the us v enter w,AEA,5
+1063750,why did the us volunterilay enter ww1,why cause the us v enter w,AEA,5
+1063750,why did the us volunterilay enter ww1,why end the us v enter w,AEA,5
+1063750,why did the us volunterilay enter ww1,why do the us v enter w,AEA,5
+1063750,why did the us volunterilay enter ww1,why complete the us v enter w,AEA,5
+130510,definition declaratory judgment,explanation d content,AEA,5
+130510,definition declaratory judgment,explanation d opinion,AEA,5
+130510,definition declaratory judgment,explanation d judgment,AEA,5
+130510,definition declaratory judgment,explanation d belief,AEA,5
+130510,definition declaratory judgment,definition d content,AEA,5
+130510,definition declaratory judgment,definition d opinion,AEA,5
+130510,definition declaratory judgment,definition d judgment,AEA,5
+130510,definition declaratory judgment,definition d belief,AEA,5
+130510,definition declaratory judgment,statement d content,AEA,5
+130510,definition declaratory judgment,statement d opinion,AEA,5
+130510,definition declaratory judgment,statement d judgment,AEA,5
+130510,definition declaratory judgment,statement d belief,AEA,5
+130510,definition declaratory judgment,message d content,AEA,5
+130510,definition declaratory judgment,message d opinion,AEA,5
+130510,definition declaratory judgment,message d judgment,AEA,5
+130510,definition declaratory judgment,message d belief,AEA,5
+489204,right pelvic pain causes,right p information happening,AEA,5
+489204,right pelvic pain causes,right p information origin,AEA,5
+489204,right pelvic pain causes,right p information cause,AEA,5
+489204,right pelvic pain causes,right p information beginning,AEA,5
+489204,right pelvic pain causes,right p symptom happening,AEA,5
+489204,right pelvic pain causes,right p symptom origin,AEA,5
+489204,right pelvic pain causes,right p symptom cause,AEA,5
+489204,right pelvic pain causes,right p symptom beginning,AEA,5
+489204,right pelvic pain causes,right p pain happening,AEA,5
+489204,right pelvic pain causes,right p pain origin,AEA,5
+489204,right pelvic pain causes,right p pain cause,AEA,5
+489204,right pelvic pain causes,right p pain beginning,AEA,5
+489204,right pelvic pain causes,right p evidence happening,AEA,5
+489204,right pelvic pain causes,right p evidence origin,AEA,5
+489204,right pelvic pain causes,right p evidence cause,AEA,5
+489204,right pelvic pain causes,right p evidence beginning,AEA,5
+573724,what are the social determinants of health,what be the social cognitive_factor of wellbeing,AEA,5
+573724,what are the social determinants of health,what be the social cognitive_factor of health,AEA,5
+573724,what are the social determinants of health,what be the social cognitive_factor of good_fortune,AEA,5
+573724,what are the social determinants of health,what be the social cognitive_factor of prosperity,AEA,5
+573724,what are the social determinants of health,what be the social psychological_feature of wellbeing,AEA,5
+573724,what are the social determinants of health,what be the social psychological_feature of health,AEA,5
+573724,what are the social determinants of health,what be the social psychological_feature of good_fortune,AEA,5
+573724,what are the social determinants of health,what be the social psychological_feature of prosperity,AEA,5
+573724,what are the social determinants of health,what be the social cognition of wellbeing,AEA,5
+573724,what are the social determinants of health,what be the social cognition of health,AEA,5
+573724,what are the social determinants of health,what be the social cognition of good_fortune,AEA,5
+573724,what are the social determinants of health,what be the social cognition of prosperity,AEA,5
+573724,what are the social determinants of health,what be the social determinant of wellbeing,AEA,5
+573724,what are the social determinants of health,what be the social determinant of health,AEA,5
+573724,what are the social determinants of health,what be the social determinant of good_fortune,AEA,5
+573724,what are the social determinants of health,what be the social determinant of prosperity,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p happening pneumonia,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p happening illness,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p happening respiratory_disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p happening disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p origin pneumonia,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p origin illness,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p origin respiratory_disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p origin disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p cause pneumonia,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p cause illness,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p cause respiratory_disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p cause disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p beginning pneumonia,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p beginning illness,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p beginning respiratory_disease,AEA,5
+168216,does legionella pneumophila cause pneumonia,make l p beginning disease,AEA,5
+1133167,how is the weather in jamaica,how be the physical_phenomenon in jamaica,AEA,5
+1133167,how is the weather in jamaica,how be the weather in jamaica,AEA,5
+1133167,how is the weather in jamaica,how be the atmospheric_phenomenon in jamaica,AEA,5
+1133167,how is the weather in jamaica,how be the natural_phenomenon in jamaica,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of dysarthria from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of dysarthria from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of dysarthria from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of dysarthria from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of physical_condition from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of physical_condition from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of physical_condition from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of physical_condition from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of speech_disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of speech_disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of speech_disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,kind of speech_disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of dysarthria from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of dysarthria from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of dysarthria from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of dysarthria from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of physical_condition from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of physical_condition from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of physical_condition from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of physical_condition from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of speech_disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of speech_disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of speech_disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,concept of speech_disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,type of dysarthria from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,type of dysarthria from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,type of dysarthria from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,type of dysarthria from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,type of physical_condition from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,type of physical_condition from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,type of physical_condition from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,type of physical_condition from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,type of disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,type of disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,type of disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,type of disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,type of speech_disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,type of speech_disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,type of speech_disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,type of speech_disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,category of dysarthria from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,category of dysarthria from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,category of dysarthria from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,category of dysarthria from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,category of physical_condition from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,category of physical_condition from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,category of physical_condition from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,category of physical_condition from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,category of disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,category of disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,category of disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,category of disorder from cerebral palsy,AEA,5
+527433,types of dysarthria from cerebral palsy,category of speech_disorder from cerebral information,AEA,5
+527433,types of dysarthria from cerebral palsy,category of speech_disorder from cerebral symptom,AEA,5
+527433,types of dysarthria from cerebral palsy,category of speech_disorder from cerebral evidence,AEA,5
+527433,types of dysarthria from cerebral palsy,category of speech_disorder from cerebral palsy,AEA,5
+1037798,who is robert gray,who be robert gray,AEA,5
+915593,what types of food can you cook sous vide,what type of substance can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of substance can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of substance can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of matter can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of matter can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of matter can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of physical_entity can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of physical_entity can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of physical_entity can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of food can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of food can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what type of food can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of substance can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of substance can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of substance can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of matter can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of matter can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of matter can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of physical_entity can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of physical_entity can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of physical_entity can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of food can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of food can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what communicate of food can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of substance can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of substance can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of substance can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of matter can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of matter can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of matter can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of physical_entity can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of physical_entity can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of physical_entity can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of food can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of food can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what write of food can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of substance can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of substance can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of substance can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of matter can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of matter can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of matter can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of physical_entity can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of physical_entity can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of physical_entity can you cook sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of food can you make sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of food can you create_from_raw_material sous v,AEA,5
+915593,what types of food can you cook sous vide,what interact of food can you cook sous v,AEA,5
+264014,how long is life cycle of flea,how long be state measure of flea,AEA,5
+264014,how long is life cycle of flea,how long be state measure of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be state measure of organism,AEA,5
+264014,how long is life cycle of flea,how long be state measure of parasite,AEA,5
+264014,how long is life cycle of flea,how long be state measure of insect,AEA,5
+264014,how long is life cycle of flea,how long be state measure of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be state measure of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of flea,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of organism,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of parasite,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of insect,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be state abstraction of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of flea,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of organism,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of parasite,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of insect,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be state time_interval of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of flea,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of organism,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of parasite,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of insect,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be state cycle of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be being measure of flea,AEA,5
+264014,how long is life cycle of flea,how long be being measure of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be being measure of organism,AEA,5
+264014,how long is life cycle of flea,how long be being measure of parasite,AEA,5
+264014,how long is life cycle of flea,how long be being measure of insect,AEA,5
+264014,how long is life cycle of flea,how long be being measure of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be being measure of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of flea,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of organism,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of parasite,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of insect,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be being abstraction of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of flea,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of organism,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of parasite,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of insect,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be being time_interval of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of flea,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of organism,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of parasite,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of insect,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be being cycle of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of flea,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of organism,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of parasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of insect,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be attribute measure of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of flea,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of organism,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of parasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of insect,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be attribute abstraction of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of flea,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of organism,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of parasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of insect,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be attribute time_interval of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of flea,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of organism,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of parasite,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of insect,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be attribute cycle of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be life measure of flea,AEA,5
+264014,how long is life cycle of flea,how long be life measure of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be life measure of organism,AEA,5
+264014,how long is life cycle of flea,how long be life measure of parasite,AEA,5
+264014,how long is life cycle of flea,how long be life measure of insect,AEA,5
+264014,how long is life cycle of flea,how long be life measure of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be life measure of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of flea,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of organism,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of parasite,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of insect,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be life abstraction of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of flea,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of organism,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of parasite,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of insect,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be life time_interval of ectoparasite,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of flea,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of invertebrate,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of organism,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of parasite,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of insect,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of arthropod,AEA,5
+264014,how long is life cycle of flea,how long be life cycle of ectoparasite,AEA,5
+1121402,what can contour plowing reduce,what can delineate plow reduce,AEA,5
+1121402,what can contour plowing reduce,what can delineate plow change,AEA,5
+1121402,what can contour plowing reduce,what can delineate plow decrease,AEA,5
+1121402,what can contour plowing reduce,what can delineate work reduce,AEA,5
+1121402,what can contour plowing reduce,what can delineate work change,AEA,5
+1121402,what can contour plowing reduce,what can delineate work decrease,AEA,5
+1121402,what can contour plowing reduce,what can delineate till reduce,AEA,5
+1121402,what can contour plowing reduce,what can delineate till change,AEA,5
+1121402,what can contour plowing reduce,what can delineate till decrease,AEA,5
+1121402,what can contour plowing reduce,what can delineate transform reduce,AEA,5
+1121402,what can contour plowing reduce,what can delineate transform change,AEA,5
+1121402,what can contour plowing reduce,what can delineate transform decrease,AEA,5
+1121402,what can contour plowing reduce,what can represent plow reduce,AEA,5
+1121402,what can contour plowing reduce,what can represent plow change,AEA,5
+1121402,what can contour plowing reduce,what can represent plow decrease,AEA,5
+1121402,what can contour plowing reduce,what can represent work reduce,AEA,5
+1121402,what can contour plowing reduce,what can represent work change,AEA,5
+1121402,what can contour plowing reduce,what can represent work decrease,AEA,5
+1121402,what can contour plowing reduce,what can represent till reduce,AEA,5
+1121402,what can contour plowing reduce,what can represent till change,AEA,5
+1121402,what can contour plowing reduce,what can represent till decrease,AEA,5
+1121402,what can contour plowing reduce,what can represent transform reduce,AEA,5
+1121402,what can contour plowing reduce,what can represent transform change,AEA,5
+1121402,what can contour plowing reduce,what can represent transform decrease,AEA,5
+1121402,what can contour plowing reduce,what can contour plow reduce,AEA,5
+1121402,what can contour plowing reduce,what can contour plow change,AEA,5
+1121402,what can contour plowing reduce,what can contour plow decrease,AEA,5
+1121402,what can contour plowing reduce,what can contour work reduce,AEA,5
+1121402,what can contour plowing reduce,what can contour work change,AEA,5
+1121402,what can contour plowing reduce,what can contour work decrease,AEA,5
+1121402,what can contour plowing reduce,what can contour till reduce,AEA,5
+1121402,what can contour plowing reduce,what can contour till change,AEA,5
+1121402,what can contour plowing reduce,what can contour till decrease,AEA,5
+1121402,what can contour plowing reduce,what can contour transform reduce,AEA,5
+1121402,what can contour plowing reduce,what can contour transform change,AEA,5
+1121402,what can contour plowing reduce,what can contour transform decrease,AEA,5
+1121402,what can contour plowing reduce,what can draw plow reduce,AEA,5
+1121402,what can contour plowing reduce,what can draw plow change,AEA,5
+1121402,what can contour plowing reduce,what can draw plow decrease,AEA,5
+1121402,what can contour plowing reduce,what can draw work reduce,AEA,5
+1121402,what can contour plowing reduce,what can draw work change,AEA,5
+1121402,what can contour plowing reduce,what can draw work decrease,AEA,5
+1121402,what can contour plowing reduce,what can draw till reduce,AEA,5
+1121402,what can contour plowing reduce,what can draw till change,AEA,5
+1121402,what can contour plowing reduce,what can draw till decrease,AEA,5
+1121402,what can contour plowing reduce,what can draw transform reduce,AEA,5
+1121402,what can contour plowing reduce,what can draw transform change,AEA,5
+1121402,what can contour plowing reduce,what can draw transform decrease,AEA,5
+962179,when was the salvation army founded,when be the means army establish,AEA,5
+962179,when was the salvation army founded,when be the means army open,AEA,5
+962179,when was the salvation army founded,when be the means military_service establish,AEA,5
+962179,when was the salvation army founded,when be the means military_service open,AEA,5
+962179,when was the salvation army founded,when be the means organization establish,AEA,5
+962179,when was the salvation army founded,when be the means organization open,AEA,5
+962179,when was the salvation army founded,when be the means force establish,AEA,5
+962179,when was the salvation army founded,when be the means force open,AEA,5
+962179,when was the salvation army founded,when be the implementation army establish,AEA,5
+962179,when was the salvation army founded,when be the implementation army open,AEA,5
+962179,when was the salvation army founded,when be the implementation military_service establish,AEA,5
+962179,when was the salvation army founded,when be the implementation military_service open,AEA,5
+962179,when was the salvation army founded,when be the implementation organization establish,AEA,5
+962179,when was the salvation army founded,when be the implementation organization open,AEA,5
+962179,when was the salvation army founded,when be the implementation force establish,AEA,5
+962179,when was the salvation army founded,when be the implementation force open,AEA,5
+962179,when was the salvation army founded,when be the salvation army establish,AEA,5
+962179,when was the salvation army founded,when be the salvation army open,AEA,5
+962179,when was the salvation army founded,when be the salvation military_service establish,AEA,5
+962179,when was the salvation army founded,when be the salvation military_service open,AEA,5
+962179,when was the salvation army founded,when be the salvation organization establish,AEA,5
+962179,when was the salvation army founded,when be the salvation organization open,AEA,5
+962179,when was the salvation army founded,when be the salvation force establish,AEA,5
+962179,when was the salvation army founded,when be the salvation force open,AEA,5
+962179,when was the salvation army founded,when be the act army establish,AEA,5
+962179,when was the salvation army founded,when be the act army open,AEA,5
+962179,when was the salvation army founded,when be the act military_service establish,AEA,5
+962179,when was the salvation army founded,when be the act military_service open,AEA,5
+962179,when was the salvation army founded,when be the act organization establish,AEA,5
+962179,when was the salvation army founded,when be the act organization open,AEA,5
+962179,when was the salvation army founded,when be the act force establish,AEA,5
+962179,when was the salvation army founded,when be the act force open,AEA,5
+1117099,what is a active margin,what be a active shape,AEA,5
+1117099,what is a active margin,what be a active margin,AEA,5
+1117099,what is a active margin,what be a active line,AEA,5
+1117099,what is a active margin,what be a active boundary,AEA,5
+148538,difference between rn and bsn,difference between matter and b,AEA,5
+148538,difference between rn and bsn,difference between noble_gas and b,AEA,5
+148538,difference between rn and bsn,difference between chemical_element and b,AEA,5
+148538,difference between rn and bsn,difference between gas and b,AEA,5
+148538,difference between rn and bsn,difference between substance and b,AEA,5
+148538,difference between rn and bsn,difference between radon and b,AEA,5
+148538,difference between rn and bsn,difference between part and b,AEA,5
+148538,difference between rn and bsn,difference between fluid and b,AEA,5
+148538,difference between rn and bsn,quality between matter and b,AEA,5
+148538,difference between rn and bsn,quality between noble_gas and b,AEA,5
+148538,difference between rn and bsn,quality between chemical_element and b,AEA,5
+148538,difference between rn and bsn,quality between gas and b,AEA,5
+148538,difference between rn and bsn,quality between substance and b,AEA,5
+148538,difference between rn and bsn,quality between radon and b,AEA,5
+148538,difference between rn and bsn,quality between part and b,AEA,5
+148538,difference between rn and bsn,quality between fluid and b,AEA,5
+148538,difference between rn and bsn,attribute between matter and b,AEA,5
+148538,difference between rn and bsn,attribute between noble_gas and b,AEA,5
+148538,difference between rn and bsn,attribute between chemical_element and b,AEA,5
+148538,difference between rn and bsn,attribute between gas and b,AEA,5
+148538,difference between rn and bsn,attribute between substance and b,AEA,5
+148538,difference between rn and bsn,attribute between radon and b,AEA,5
+148538,difference between rn and bsn,attribute between part and b,AEA,5
+148538,difference between rn and bsn,attribute between fluid and b,AEA,5
+148538,difference between rn and bsn,abstraction between matter and b,AEA,5
+148538,difference between rn and bsn,abstraction between noble_gas and b,AEA,5
+148538,difference between rn and bsn,abstraction between chemical_element and b,AEA,5
+148538,difference between rn and bsn,abstraction between gas and b,AEA,5
+148538,difference between rn and bsn,abstraction between substance and b,AEA,5
+148538,difference between rn and bsn,abstraction between radon and b,AEA,5
+148538,difference between rn and bsn,abstraction between part and b,AEA,5
+148538,difference between rn and bsn,abstraction between fluid and b,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's explanation of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's explanation of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's explanation of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's explanation of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's definition of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's definition of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's definition of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's definition of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's statement of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's statement of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's statement of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's statement of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's message of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's message of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's message of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_welfare 's message of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's explanation of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's explanation of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's explanation of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's explanation of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's definition of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's definition of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's definition of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's definition of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's statement of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's statement of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's statement of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's statement of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's message of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's message of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's message of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,health_care 's message of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's explanation of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's explanation of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's explanation of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's explanation of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's definition of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's definition of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's definition of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's definition of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's statement of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's statement of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's statement of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's statement of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's message of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's message of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's message of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,medicare 's message of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's explanation of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's explanation of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's explanation of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's explanation of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's definition of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's definition of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's definition of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's definition of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's statement of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's statement of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's statement of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's statement of mechanical change,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's message of mechanical change_of_state,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's message of mechanical ventilation,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's message of mechanical improvement,AEA,5
+451602,medicare's definition of mechanical ventilation,social_insurance 's message of mechanical change,AEA,5
+359349,how to find the midsegment of a trapezoid,how to find the m of a quadrilateral,AEA,5
+359349,how to find the midsegment of a trapezoid,how to find the m of a polygon,AEA,5
+359349,how to find the midsegment of a trapezoid,how to find the m of a plane_figure,AEA,5
+359349,how to find the midsegment of a trapezoid,how to find the m of a trapezoid,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml police_work analyst,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml police_work expert,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml police_work organism,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml police_work person,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml police_work causal_agent,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml work analyst,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml work expert,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml work organism,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml work person,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml work causal_agent,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml investigation analyst,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml investigation expert,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml investigation organism,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml investigation person,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml investigation causal_agent,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml surveillance analyst,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml surveillance expert,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml surveillance organism,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml surveillance person,AEA,5
+1115776,what is an aml surveillance analyst,what be an aml surveillance causal_agent,AEA,5
+1112341,what is the daily life of thai people,what be the daily state of thai entity,AEA,5
+1112341,what is the daily life of thai people,what be the daily state of thai group,AEA,5
+1112341,what is the daily life of thai people,what be the daily state of thai abstraction,AEA,5
+1112341,what is the daily life of thai people,what be the daily state of thai people,AEA,5
+1112341,what is the daily life of thai people,what be the daily being of thai entity,AEA,5
+1112341,what is the daily life of thai people,what be the daily being of thai group,AEA,5
+1112341,what is the daily life of thai people,what be the daily being of thai abstraction,AEA,5
+1112341,what is the daily life of thai people,what be the daily being of thai people,AEA,5
+1112341,what is the daily life of thai people,what be the daily attribute of thai entity,AEA,5
+1112341,what is the daily life of thai people,what be the daily attribute of thai group,AEA,5
+1112341,what is the daily life of thai people,what be the daily attribute of thai abstraction,AEA,5
+1112341,what is the daily life of thai people,what be the daily attribute of thai people,AEA,5
+1112341,what is the daily life of thai people,what be the daily life of thai entity,AEA,5
+1112341,what is the daily life of thai people,what be the daily life of thai group,AEA,5
+1112341,what is the daily life of thai people,what be the daily life of thai abstraction,AEA,5
+1112341,what is the daily life of thai people,what be the daily life of thai people,AEA,5
+131843,definition of a sigmet,explanation of a s,AEA,5
+131843,definition of a sigmet,definition of a s,AEA,5
+131843,definition of a sigmet,statement of a s,AEA,5
+131843,definition of a sigmet,message of a s,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior building_material building_material,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior building_material whole,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior building_material flooring,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior building_material artifact,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior artifact building_material,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior artifact whole,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior artifact flooring,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior artifact artifact,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior concrete building_material,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior concrete whole,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior concrete flooring,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior concrete artifact,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior paving building_material,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior paving whole,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior paving flooring,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior paving artifact,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior whole building_material,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior whole whole,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior whole flooring,AEA,5
+104861,cost of interior concrete flooring,transferred_property of interior whole artifact,AEA,5
+104861,cost of interior concrete flooring,cost of interior building_material building_material,AEA,5
+104861,cost of interior concrete flooring,cost of interior building_material whole,AEA,5
+104861,cost of interior concrete flooring,cost of interior building_material flooring,AEA,5
+104861,cost of interior concrete flooring,cost of interior building_material artifact,AEA,5
+104861,cost of interior concrete flooring,cost of interior artifact building_material,AEA,5
+104861,cost of interior concrete flooring,cost of interior artifact whole,AEA,5
+104861,cost of interior concrete flooring,cost of interior artifact flooring,AEA,5
+104861,cost of interior concrete flooring,cost of interior artifact artifact,AEA,5
+104861,cost of interior concrete flooring,cost of interior concrete building_material,AEA,5
+104861,cost of interior concrete flooring,cost of interior concrete whole,AEA,5
+104861,cost of interior concrete flooring,cost of interior concrete flooring,AEA,5
+104861,cost of interior concrete flooring,cost of interior concrete artifact,AEA,5
+104861,cost of interior concrete flooring,cost of interior paving building_material,AEA,5
+104861,cost of interior concrete flooring,cost of interior paving whole,AEA,5
+104861,cost of interior concrete flooring,cost of interior paving flooring,AEA,5
+104861,cost of interior concrete flooring,cost of interior paving artifact,AEA,5
+104861,cost of interior concrete flooring,cost of interior whole building_material,AEA,5
+104861,cost of interior concrete flooring,cost of interior whole whole,AEA,5
+104861,cost of interior concrete flooring,cost of interior whole flooring,AEA,5
+104861,cost of interior concrete flooring,cost of interior whole artifact,AEA,5
+104861,cost of interior concrete flooring,possession of interior building_material building_material,AEA,5
+104861,cost of interior concrete flooring,possession of interior building_material whole,AEA,5
+104861,cost of interior concrete flooring,possession of interior building_material flooring,AEA,5
+104861,cost of interior concrete flooring,possession of interior building_material artifact,AEA,5
+104861,cost of interior concrete flooring,possession of interior artifact building_material,AEA,5
+104861,cost of interior concrete flooring,possession of interior artifact whole,AEA,5
+104861,cost of interior concrete flooring,possession of interior artifact flooring,AEA,5
+104861,cost of interior concrete flooring,possession of interior artifact artifact,AEA,5
+104861,cost of interior concrete flooring,possession of interior concrete building_material,AEA,5
+104861,cost of interior concrete flooring,possession of interior concrete whole,AEA,5
+104861,cost of interior concrete flooring,possession of interior concrete flooring,AEA,5
+104861,cost of interior concrete flooring,possession of interior concrete artifact,AEA,5
+104861,cost of interior concrete flooring,possession of interior paving building_material,AEA,5
+104861,cost of interior concrete flooring,possession of interior paving whole,AEA,5
+104861,cost of interior concrete flooring,possession of interior paving flooring,AEA,5
+104861,cost of interior concrete flooring,possession of interior paving artifact,AEA,5
+104861,cost of interior concrete flooring,possession of interior whole building_material,AEA,5
+104861,cost of interior concrete flooring,possession of interior whole whole,AEA,5
+104861,cost of interior concrete flooring,possession of interior whole flooring,AEA,5
+104861,cost of interior concrete flooring,possession of interior whole artifact,AEA,5
+104861,cost of interior concrete flooring,outgo of interior building_material building_material,AEA,5
+104861,cost of interior concrete flooring,outgo of interior building_material whole,AEA,5
+104861,cost of interior concrete flooring,outgo of interior building_material flooring,AEA,5
+104861,cost of interior concrete flooring,outgo of interior building_material artifact,AEA,5
+104861,cost of interior concrete flooring,outgo of interior artifact building_material,AEA,5
+104861,cost of interior concrete flooring,outgo of interior artifact whole,AEA,5
+104861,cost of interior concrete flooring,outgo of interior artifact flooring,AEA,5
+104861,cost of interior concrete flooring,outgo of interior artifact artifact,AEA,5
+104861,cost of interior concrete flooring,outgo of interior concrete building_material,AEA,5
+104861,cost of interior concrete flooring,outgo of interior concrete whole,AEA,5
+104861,cost of interior concrete flooring,outgo of interior concrete flooring,AEA,5
+104861,cost of interior concrete flooring,outgo of interior concrete artifact,AEA,5
+104861,cost of interior concrete flooring,outgo of interior paving building_material,AEA,5
+104861,cost of interior concrete flooring,outgo of interior paving whole,AEA,5
+104861,cost of interior concrete flooring,outgo of interior paving flooring,AEA,5
+104861,cost of interior concrete flooring,outgo of interior paving artifact,AEA,5
+104861,cost of interior concrete flooring,outgo of interior whole building_material,AEA,5
+104861,cost of interior concrete flooring,outgo of interior whole whole,AEA,5
+104861,cost of interior concrete flooring,outgo of interior whole flooring,AEA,5
+104861,cost of interior concrete flooring,outgo of interior whole artifact,AEA,5
+833860,what is the most popular food in switzerland,what be the most popular substance in switzerland,AEA,5
+833860,what is the most popular food in switzerland,what be the most popular matter in switzerland,AEA,5
+833860,what is the most popular food in switzerland,what be the most popular physical_entity in switzerland,AEA,5
+833860,what is the most popular food in switzerland,what be the most popular food in switzerland,AEA,5
+207786,how are some sharks warm blooded,how be some shark change cover,AEA,5
+207786,how are some sharks warm blooded,how be some shark change daub,AEA,5
+207786,how are some sharks warm blooded,how be some shark change blood,AEA,5
+207786,how are some sharks warm blooded,how be some shark warm cover,AEA,5
+207786,how are some sharks warm blooded,how be some shark warm daub,AEA,5
+207786,how are some sharks warm blooded,how be some shark warm blood,AEA,5
+207786,how are some sharks warm blooded,how be some fish change cover,AEA,5
+207786,how are some sharks warm blooded,how be some fish change daub,AEA,5
+207786,how are some sharks warm blooded,how be some fish change blood,AEA,5
+207786,how are some sharks warm blooded,how be some fish warm cover,AEA,5
+207786,how are some sharks warm blooded,how be some fish warm daub,AEA,5
+207786,how are some sharks warm blooded,how be some fish warm blood,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch change cover,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch change daub,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch change blood,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch warm cover,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch warm daub,AEA,5
+207786,how are some sharks warm blooded,how be some elasmobranch warm blood,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish change cover,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish change daub,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish change blood,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish warm cover,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish warm daub,AEA,5
+207786,how are some sharks warm blooded,how be some cartilaginous_fish warm blood,AEA,5
+1114819,what is durable medical equipment consist of,what be durable medical instrumentality c of,AEA,5
+1114819,what is durable medical equipment consist of,what be durable medical whole c of,AEA,5
+1114819,what is durable medical equipment consist of,what be durable medical artifact c of,AEA,5
+1114819,what is durable medical equipment consist of,what be durable medical equipment c of,AEA,5
+183378,exons definition biology,compound explanation biology,AEA,5
+183378,exons definition biology,compound explanation natural_science,AEA,5
+183378,exons definition biology,compound explanation science,AEA,5
+183378,exons definition biology,compound explanation life_science,AEA,5
+183378,exons definition biology,compound definition biology,AEA,5
+183378,exons definition biology,compound definition natural_science,AEA,5
+183378,exons definition biology,compound definition science,AEA,5
+183378,exons definition biology,compound definition life_science,AEA,5
+183378,exons definition biology,compound statement biology,AEA,5
+183378,exons definition biology,compound statement natural_science,AEA,5
+183378,exons definition biology,compound statement science,AEA,5
+183378,exons definition biology,compound statement life_science,AEA,5
+183378,exons definition biology,compound message biology,AEA,5
+183378,exons definition biology,compound message natural_science,AEA,5
+183378,exons definition biology,compound message science,AEA,5
+183378,exons definition biology,compound message life_science,AEA,5
+183378,exons definition biology,exon explanation biology,AEA,5
+183378,exons definition biology,exon explanation natural_science,AEA,5
+183378,exons definition biology,exon explanation science,AEA,5
+183378,exons definition biology,exon explanation life_science,AEA,5
+183378,exons definition biology,exon definition biology,AEA,5
+183378,exons definition biology,exon definition natural_science,AEA,5
+183378,exons definition biology,exon definition science,AEA,5
+183378,exons definition biology,exon definition life_science,AEA,5
+183378,exons definition biology,exon statement biology,AEA,5
+183378,exons definition biology,exon statement natural_science,AEA,5
+183378,exons definition biology,exon statement science,AEA,5
+183378,exons definition biology,exon statement life_science,AEA,5
+183378,exons definition biology,exon message biology,AEA,5
+183378,exons definition biology,exon message natural_science,AEA,5
+183378,exons definition biology,exon message science,AEA,5
+183378,exons definition biology,exon message life_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid explanation biology,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid explanation natural_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid explanation science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid explanation life_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid definition biology,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid definition natural_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid definition science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid definition life_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid statement biology,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid statement natural_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid statement science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid statement life_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid message biology,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid message natural_science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid message science,AEA,5
+183378,exons definition biology,deoxyribonucleic_acid message life_science,AEA,5
+183378,exons definition biology,polymer explanation biology,AEA,5
+183378,exons definition biology,polymer explanation natural_science,AEA,5
+183378,exons definition biology,polymer explanation science,AEA,5
+183378,exons definition biology,polymer explanation life_science,AEA,5
+183378,exons definition biology,polymer definition biology,AEA,5
+183378,exons definition biology,polymer definition natural_science,AEA,5
+183378,exons definition biology,polymer definition science,AEA,5
+183378,exons definition biology,polymer definition life_science,AEA,5
+183378,exons definition biology,polymer statement biology,AEA,5
+183378,exons definition biology,polymer statement natural_science,AEA,5
+183378,exons definition biology,polymer statement science,AEA,5
+183378,exons definition biology,polymer statement life_science,AEA,5
+183378,exons definition biology,polymer message biology,AEA,5
+183378,exons definition biology,polymer message natural_science,AEA,5
+183378,exons definition biology,polymer message science,AEA,5
+183378,exons definition biology,polymer message life_science,AEA,5
+1106007,define visceral?,specify v ?,AEA,5
+1106007,define visceral?,choose v ?,AEA,5
+1106007,define visceral?,decide v ?,AEA,5
+1106007,define visceral?,define v ?,AEA,5
+1124210,tracheids are part of _____.,plant_part be entity of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_part be part of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_part be relation of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_part be abstraction of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_tissue be entity of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_tissue be part of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_tissue be relation of _ .,AEA,5
+1124210,tracheids are part of _____.,plant_tissue be abstraction of _ .,AEA,5
+1124210,tracheids are part of _____.,tracheid be entity of _ .,AEA,5
+1124210,tracheids are part of _____.,tracheid be part of _ .,AEA,5
+1124210,tracheids are part of _____.,tracheid be relation of _ .,AEA,5
+1124210,tracheids are part of _____.,tracheid be abstraction of _ .,AEA,5
+1124210,tracheids are part of _____.,vascular_tissue be entity of _ .,AEA,5
+1124210,tracheids are part of _____.,vascular_tissue be part of _ .,AEA,5
+1124210,tracheids are part of _____.,vascular_tissue be relation of _ .,AEA,5
+1124210,tracheids are part of _____.,vascular_tissue be abstraction of _ .,AEA,5
+490595,rsa definition key,r explanation key,AEA,5
+490595,rsa definition key,r explanation instrumentality,AEA,5
+490595,rsa definition key,r explanation artifact,AEA,5
+490595,rsa definition key,r explanation device,AEA,5
+490595,rsa definition key,r definition key,AEA,5
+490595,rsa definition key,r definition instrumentality,AEA,5
+490595,rsa definition key,r definition artifact,AEA,5
+490595,rsa definition key,r definition device,AEA,5
+490595,rsa definition key,r statement key,AEA,5
+490595,rsa definition key,r statement instrumentality,AEA,5
+490595,rsa definition key,r statement artifact,AEA,5
+490595,rsa definition key,r statement device,AEA,5
+490595,rsa definition key,r message key,AEA,5
+490595,rsa definition key,r message instrumentality,AEA,5
+490595,rsa definition key,r message artifact,AEA,5
+490595,rsa definition key,r message device,AEA,5
+1103812,who formed the commonwealth of independent states,who form the commonwealth of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who form the commonwealth of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the commonwealth of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who form the commonwealth of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the state of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who form the state of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the state of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who form the state of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the district of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who form the district of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the district of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who form the district of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the administrative_district of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who form the administrative_district of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who form the administrative_district of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who form the administrative_district of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the commonwealth of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who make the commonwealth of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the commonwealth of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who make the commonwealth of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the state of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who make the state of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the state of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who make the state of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the district of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who make the district of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the district of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who make the district of independent administrative_district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the administrative_district of independent region,AEA,5
+1103812,who formed the commonwealth of independent states,who make the administrative_district of independent district,AEA,5
+1103812,who formed the commonwealth of independent states,who make the administrative_district of independent state,AEA,5
+1103812,who formed the commonwealth of independent states,who make the administrative_district of independent administrative_district,AEA,5
+87181,causes of left ventricular hypertrophy,happening of left ventricular hypertrophy,AEA,5
+87181,causes of left ventricular hypertrophy,happening of left ventricular physical_condition,AEA,5
+87181,causes of left ventricular hypertrophy,happening of left ventricular abnormality,AEA,5
+87181,causes of left ventricular hypertrophy,happening of left ventricular dysplasia,AEA,5
+87181,causes of left ventricular hypertrophy,origin of left ventricular hypertrophy,AEA,5
+87181,causes of left ventricular hypertrophy,origin of left ventricular physical_condition,AEA,5
+87181,causes of left ventricular hypertrophy,origin of left ventricular abnormality,AEA,5
+87181,causes of left ventricular hypertrophy,origin of left ventricular dysplasia,AEA,5
+87181,causes of left ventricular hypertrophy,cause of left ventricular hypertrophy,AEA,5
+87181,causes of left ventricular hypertrophy,cause of left ventricular physical_condition,AEA,5
+87181,causes of left ventricular hypertrophy,cause of left ventricular abnormality,AEA,5
+87181,causes of left ventricular hypertrophy,cause of left ventricular dysplasia,AEA,5
+87181,causes of left ventricular hypertrophy,beginning of left ventricular hypertrophy,AEA,5
+87181,causes of left ventricular hypertrophy,beginning of left ventricular physical_condition,AEA,5
+87181,causes of left ventricular hypertrophy,beginning of left ventricular abnormality,AEA,5
+87181,causes of left ventricular hypertrophy,beginning of left ventricular dysplasia,AEA,5
+443396,lps laws definition,lps torah explanation,AEA,5
+443396,lps laws definition,lps torah definition,AEA,5
+443396,lps laws definition,lps torah statement,AEA,5
+443396,lps laws definition,lps torah message,AEA,5
+1121709,what are the three percenters?,what be the three p ?,AEA,5
+87452,causes of military suicide,happening of military termination,AEA,5
+87452,causes of military suicide,happening of military killing,AEA,5
+87452,causes of military suicide,happening of military change_of_state,AEA,5
+87452,causes of military suicide,happening of military suicide,AEA,5
+87452,causes of military suicide,origin of military termination,AEA,5
+87452,causes of military suicide,origin of military killing,AEA,5
+87452,causes of military suicide,origin of military change_of_state,AEA,5
+87452,causes of military suicide,origin of military suicide,AEA,5
+87452,causes of military suicide,cause of military termination,AEA,5
+87452,causes of military suicide,cause of military killing,AEA,5
+87452,causes of military suicide,cause of military change_of_state,AEA,5
+87452,causes of military suicide,cause of military suicide,AEA,5
+87452,causes of military suicide,beginning of military termination,AEA,5
+87452,causes of military suicide,beginning of military killing,AEA,5
+87452,causes of military suicide,beginning of military change_of_state,AEA,5
+87452,causes of military suicide,beginning of military suicide,AEA,5
+855410,what is theraderm used for,what be theraderm use for,AEA,5
+1114646,what is famvir prescribed for,what be famvir p for,AEA,5
+19335,anthropological definition of environment,anthropological explanation of state,AEA,5
+19335,anthropological definition of environment,anthropological explanation of environment,AEA,5
+19335,anthropological definition of environment,anthropological explanation of situation,AEA,5
+19335,anthropological definition of environment,anthropological explanation of attribute,AEA,5
+19335,anthropological definition of environment,anthropological definition of state,AEA,5
+19335,anthropological definition of environment,anthropological definition of environment,AEA,5
+19335,anthropological definition of environment,anthropological definition of situation,AEA,5
+19335,anthropological definition of environment,anthropological definition of attribute,AEA,5
+19335,anthropological definition of environment,anthropological statement of state,AEA,5
+19335,anthropological definition of environment,anthropological statement of environment,AEA,5
+19335,anthropological definition of environment,anthropological statement of situation,AEA,5
+19335,anthropological definition of environment,anthropological statement of attribute,AEA,5
+19335,anthropological definition of environment,anthropological message of state,AEA,5
+19335,anthropological definition of environment,anthropological message of environment,AEA,5
+19335,anthropological definition of environment,anthropological message of situation,AEA,5
+19335,anthropological definition of environment,anthropological message of attribute,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,material facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,material station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,material artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,material terminal or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,nerve_fiber terminal or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,cell terminal or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,fiber terminal or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon facility or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon station or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon artifact or synaptic knob message,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic structure explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic structure definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic structure statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic structure message,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic artifact explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic artifact definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic artifact statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic artifact message,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic projection explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic projection definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic projection statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic projection message,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic knob explanation,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic knob definition,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic knob statement,AEA,5
+47923,axon terminals or synaptic knob definition,axon terminal or synaptic knob message,AEA,5
+405717,is cdg airport in main paris,be cdg airport in main paris,AEA,5
+405717,is cdg airport in main paris,be cdg airfield in main paris,AEA,5
+405717,is cdg airport in main paris,be cdg facility in main paris,AEA,5
+405717,is cdg airport in main paris,be cdg artifact in main paris,AEA,5
+182539,example of monotonic function,information of monotonic function,AEA,5
+182539,example of monotonic function,information of monotonic relation,AEA,5
+182539,example of monotonic function,information of monotonic mathematical_relation,AEA,5
+182539,example of monotonic function,information of monotonic abstraction,AEA,5
+182539,example of monotonic function,psychological_feature of monotonic function,AEA,5
+182539,example of monotonic function,psychological_feature of monotonic relation,AEA,5
+182539,example of monotonic function,psychological_feature of monotonic mathematical_relation,AEA,5
+182539,example of monotonic function,psychological_feature of monotonic abstraction,AEA,5
+182539,example of monotonic function,cognition of monotonic function,AEA,5
+182539,example of monotonic function,cognition of monotonic relation,AEA,5
+182539,example of monotonic function,cognition of monotonic mathematical_relation,AEA,5
+182539,example of monotonic function,cognition of monotonic abstraction,AEA,5
+182539,example of monotonic function,example of monotonic function,AEA,5
+182539,example of monotonic function,example of monotonic relation,AEA,5
+182539,example of monotonic function,example of monotonic mathematical_relation,AEA,5
+182539,example of monotonic function,example of monotonic abstraction,AEA,5
+1113437,what is physical description of spruce,what be physical description of plant_material,AEA,5
+1113437,what is physical description of spruce,what be physical description of material,AEA,5
+1113437,what is physical description of spruce,what be physical description of spruce,AEA,5
+1113437,what is physical description of spruce,what be physical description of wood,AEA,5
+1113437,what is physical description of spruce,what be physical message of plant_material,AEA,5
+1113437,what is physical description of spruce,what be physical message of material,AEA,5
+1113437,what is physical description of spruce,what be physical message of spruce,AEA,5
+1113437,what is physical description of spruce,what be physical message of wood,AEA,5
+1113437,what is physical description of spruce,what be physical statement of plant_material,AEA,5
+1113437,what is physical description of spruce,what be physical statement of material,AEA,5
+1113437,what is physical description of spruce,what be physical statement of spruce,AEA,5
+1113437,what is physical description of spruce,what be physical statement of wood,AEA,5
+1113437,what is physical description of spruce,what be physical communication of plant_material,AEA,5
+1113437,what is physical description of spruce,what be physical communication of material,AEA,5
+1113437,what is physical description of spruce,what be physical communication of spruce,AEA,5
+1113437,what is physical description of spruce,what be physical communication of wood,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,matter be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,gas be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,chemical_element be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,substance be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,part be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,hydrogen be a fluid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a liquid below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a matter below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a substance below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a part below what fundamental_quantity,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what temperature,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what measure,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what abstraction,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what physical_property,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what attribute,AEA,5
+1129237,hydrogen is a liquid below what temperature,fluid be a fluid below what fundamental_quantity,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,difference between a mcdouble and a double sandwich,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,difference between a mcdouble and a double cheeseburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,difference between a mcdouble and a double snack_food,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,difference between a mcdouble and a double hamburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,quality between a mcdouble and a double sandwich,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,quality between a mcdouble and a double cheeseburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,quality between a mcdouble and a double snack_food,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,quality between a mcdouble and a double hamburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,attribute between a mcdouble and a double sandwich,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,attribute between a mcdouble and a double cheeseburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,attribute between a mcdouble and a double snack_food,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,attribute between a mcdouble and a double hamburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,abstraction between a mcdouble and a double sandwich,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,abstraction between a mcdouble and a double cheeseburger,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,abstraction between a mcdouble and a double snack_food,AEA,5
+146187,difference between a mcdouble and a double cheeseburger,abstraction between a mcdouble and a double hamburger,AEA,5
